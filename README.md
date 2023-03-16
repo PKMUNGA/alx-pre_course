@@ -1,2 +1,1 @@
-My first readme
-README update from Github.com.
+another readme for 0x01-git
